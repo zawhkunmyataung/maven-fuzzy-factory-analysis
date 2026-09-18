@@ -1,2 +1,2 @@
-# maven-fuzzy-factory-analysis
-E-commerce and marketing performance analysis using Power BI, DAX, and business insights.
+# Maven Fuzzy Factory - E-commerce & Marketing Channel Analysis
+E-commerce and marketing performance analysis focused on conversion, revenue, products and marketing channels.
